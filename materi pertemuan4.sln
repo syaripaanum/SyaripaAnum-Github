@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "materi pertemuan4", "materi pertemuan4\materi pertemuan4.csproj", "{9AF5CF1F-75EB-47B9-B5E9-0F8E2B6172D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF5CF1F-75EB-47B9-B5E9-0F8E2B6172D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF5CF1F-75EB-47B9-B5E9-0F8E2B6172D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF5CF1F-75EB-47B9-B5E9-0F8E2B6172D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF5CF1F-75EB-47B9-B5E9-0F8E2B6172D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
